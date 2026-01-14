@@ -1,9 +1,6 @@
 ## Hi, I am Shahnaz 👋
 🎓 Universitas Airlangga
-
 I’m a data science student who enjoys exploring real-world datasets and turning them into meaningful insights.  
-
----
 
 ## 🧠 Core Interests
 - Data analysis & visualization  
@@ -32,7 +29,5 @@ Jupyter Notebook · RStudio · Excel · SPSS · Git
 
 <!--
 **shahnazfathhhh/shahnazfathhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
