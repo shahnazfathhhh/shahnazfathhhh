@@ -15,22 +15,14 @@ I’m a data science student who enjoys exploring real-world datasets and turnin
 
 ## 🛠 Tools & Tech
 
-### Programming Languages
-- Python  
-- R  
-- SQL  
+**Languages:** Python · R · SQL  
 
-### Data Science & ML
-- Pandas, NumPy, Scikit-learn  
-- TensorFlow, PyTorch  
-- OpenCV  
-- Matplotlib, Seaborn, Plotly  
+**Data Science & ML:**  
+Pandas · NumPy · Scikit-learn · TensorFlow · OpenCV  
+Matplotlib · Seaborn · Plotly  
 
-### Tools
-- Jupyter Notebook
-- RStudio
-- Excel, SPSS  
-- Git  
+**Tools:**  
+Jupyter Notebook · RStudio · Excel · SPSS · Git
 
 ---
 
