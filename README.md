@@ -1,5 +1,6 @@
 ## Hi, I am Shahnaz 👋
 🎓 Universitas Airlangga
+
 I’m a data science student who enjoys exploring real-world datasets and turning them into meaningful insights.  
 
 ## 🧠 Core Interests
