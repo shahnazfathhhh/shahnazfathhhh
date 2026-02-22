@@ -6,7 +6,7 @@ I’m a data science student who enjoys exploring real-world datasets and turnin
 ## 🧠 Core Interests
 - Data analysis & visualization  
 - Statistical modeling  
-- Machine learning & basic deep learning  
+- Machine learning
 - Interactive dashboards & web apps  
 
 ---
